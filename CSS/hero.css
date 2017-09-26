@@ -17,11 +17,21 @@ h1 {
 	font-size: 90px;
 	color: white;
 	margin: 40px;
+	text-shadow: 0 4px 20px black;
+}
+
+h2{
+	font-size: 30px;
+}
+
+p{
+	font-size: 20px;
 }
 
 header img {
 	border-radius: 150px;
 	border: 15px solid  #f2f2f2;
+	box-shadow: 0 10px 20px black;
 }
 
 .content{
