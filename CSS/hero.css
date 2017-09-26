@@ -46,3 +46,21 @@ ul{
 	margin: 0;
 }
 
+a{
+	color: blue;
+	text-decoration: none;
+}
+
+footer{
+	padding: 40px 20px;
+	margin-top: 20px;
+}
+
+footer ul{
+	text-align: center
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
